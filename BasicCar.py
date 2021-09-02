@@ -1,4 +1,6 @@
 class BasicCar:
-    def_init_(self,color,speed):
+    def_init_(self,color,speed, price):
         self.color = color
-        seif.speed = speed
+        self.speed = speed
+        self.price = price
+        
